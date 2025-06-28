@@ -1,0 +1,1 @@
+# jskyrptowe_projekt
