@@ -1,0 +1,12 @@
+{
+  "city": "Sopot",
+  "screens": {
+    "weather": true,
+    "clock": false,
+    "quote": false,
+    "dog": false,
+    "quiz": false,
+    "quiz0": false,
+    "note": false
+  }
+}
