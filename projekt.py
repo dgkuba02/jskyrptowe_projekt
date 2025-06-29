@@ -8,7 +8,7 @@ from datetime import datetime
 import json
 import os
 
-API_KEY = "63684e0d57ae1644fe89071c159ef905"
+API_KEY = "XXX"
 DEFAULT_CITY = "Sopot"
 SETTINGS_FILE = "settings.json"
 
